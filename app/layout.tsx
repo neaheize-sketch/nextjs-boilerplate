@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "青い女子校正",
+  title: "ぱぱぱぱぱ",
   description: "おすしの初サーバープロジェクト",
 };
 
