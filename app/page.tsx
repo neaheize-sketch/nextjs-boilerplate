@@ -13,6 +13,9 @@ export default function Home() {
           priority
         />
         <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
+          <h1 className="text-blue-600 max-w-xs text-3xl font-semibold ...">
+  青い女子校正
+</h1>
           <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
             ぱるせぶんすたー.
           </h1>
